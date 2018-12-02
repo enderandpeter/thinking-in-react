@@ -1,0 +1,10 @@
+{
+  "name": "Step_01",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
